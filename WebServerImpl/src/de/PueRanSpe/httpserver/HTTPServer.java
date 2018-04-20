@@ -1,4 +1,4 @@
-package de.menzerath.httpserver;
+package de.PueRanSpe.httpserver;
 
 public class HTTPServer {
 }
